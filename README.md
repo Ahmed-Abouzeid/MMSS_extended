@@ -1,6 +1,6 @@
 # MMSS
 
-Python Implementation for the MMSS System: Storytelling Simulation for Decision-Making Support to Mitigate Misinformation on Social Media
+Python Implementation for the MMSS System: Storytelling Simulation for Decision-Making Support to Mitigate Misinformation on Social Media. With extended analytical capacity and novel representation of the diffusion model. For instance, Polarization and Societal Acceptance are now modeled along with Misinformation and Factual Information.
 
 # Visualization
 
