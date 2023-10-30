@@ -1,4 +1,4 @@
-# MMSS
+# MMSS - Part of my PhD work
 
 Python Implementation for the MMSS System: Storytelling Simulation for Decision-Making Support to Mitigate Misinformation on Social Media. With extended analytical capacity and novel representation of the diffusion model. For instance, Polarization and Societal Acceptance are now modeled along with Misinformation and Factual Information. The system is also now tested on a novel dataset with the novel representation, called PEGYPT dataset:
 (https://github.com/Ahmed-Abouzeid/PEGYPT)
